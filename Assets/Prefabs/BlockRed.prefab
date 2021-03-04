@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8089454972703792430}
   - component: {fileID: 8089454972703792431}
   - component: {fileID: -3841074940664587119}
+  - component: {fileID: -351945230238252672}
   m_Layer: 0
   m_Name: BlockRed
   m_TagString: Untagged
@@ -109,3 +110,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.2055533}
   m_EdgeRadius: 0
+--- !u!114 &-351945230238252672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8089454972703792429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96fbc56893aee674ea77a3ed95946edb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
